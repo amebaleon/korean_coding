@@ -5,20 +5,20 @@
 #include <vector>
 #include <string>
 
-#define ½ÃÀÛ int main()
-#define Ãâ·Â(x) std::cout << x;
-#define ³¡ return 0;
-#define ¹İÈ¯(x) return x;
-#define ¹İº¹(x, n) for(int x = 0; x < n; ++x)
-#define ¸¸¾à(x) if(x)
-#define ¾Æ´Ï¸é else if
-#define »ı¼º int
-#define ¹®Àå std::string
-#define º¤ÅÍ std::vector
-#define ³Ö±â push_back
-#define »©±â pop_back()
-#define Å©±â size()
-#define Ã¹¹øÂ° front()
-#define ¸¶Áö¸· back()
+#define ì‹œì‘ int main()
+#define ì¶œë ¥(x) std::cout << x;
+#define ë return 0;
+#define ë°˜í™˜(x) return x;
+#define ë°˜ë³µ(x, n) for(int x = 0; x < n; ++x)
+#define ë§Œì•½(x) if(x)
+#define ì•„ë‹ˆë©´ else if
+#define ìƒì„± auto
+#define ë¬¸ì¥ std::string
+#define ë²¡í„° std::vector
+#define ë„£ê¸° push_back
+#define ë¹¼ê¸° pop_back()
+#define í¬ê¸° size()
+#define ì²«ë²ˆì§¸ front()
+#define ë§ˆì§€ë§‰ back()
 
 #endif
